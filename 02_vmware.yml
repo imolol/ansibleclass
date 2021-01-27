@@ -4,7 +4,7 @@
   become: "yes"
   vars:
     websiteheader: "Ansible Playbook in vmware"
-    websiteauthor: "Ansible trainee"
+    websiteauthor: "Matous Blazek"
 
   roles:
   - jesperberth.el_httpd
